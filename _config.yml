@@ -18,34 +18,32 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
--JQUERY
--XML
--XSLT
--XSL
-
-
- -Maven
- -Ant 
- -Java
- -C# 
- -C++
- -C
- -JPA
- -HIBERNATE
- - SQL
- - LIFERAY
- -EXO PLATEFORM
- -JSR 286
- - JSR 168
-  -AS2 Messaging
-  -AS4 Messaging
-  -OASIS ebMS 3.0,
-  - Tech Architecture
- -POWERDESIGNER
- -INTELLIJ IDEA
- -JREBEL
- -AXURE
- -FIREBUG
+- JQUERY
+- XML
+- XSLT
+- XSL
+- Maven
+- Ant 
+- Java
+- C# 
+- C++
+- C
+- JPA
+- HIBERNATE
+- SQL
+- LIFERAY
+- EXO PLATEFORM
+- JSR 286
+- JSR 168
+- AS2 Messaging
+- AS4 Messaging
+- OASIS ebMS 3.0,
+- Tech Architecture
+- POWERDESIGNER
+- INTELLIJ IDEA
+- JREBEL
+- AXURE
+- FIREBUG
  
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
